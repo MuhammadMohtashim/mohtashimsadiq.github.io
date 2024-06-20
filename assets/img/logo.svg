@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.28 47.63">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: .03em;
+      }
+
+      .cls-4 {
+        font-family: UniNeue-Trial-Bold, 'Uni Neue-Trial';
+        font-size: 24px;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #7853a2;
+        letter-spacing: .02em;
+      }
+
+      .cls-3 {
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <rect width="109.28" height="47.63" rx="12.43" ry="12.43"/>
+  <text class="cls-4" transform="translate(10.98 32.4)"><tspan class="cls-3" x="0" y="0">A</tspan><tspan class="cls-2" x="16.44" y="0">r</tspan><tspan class="cls-1" x="26.33" y="0">chon</tspan><tspan class="cls-5" x="82.15" y="0">.</tspan></text>
+</svg>
